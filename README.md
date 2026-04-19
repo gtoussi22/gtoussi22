@@ -13,7 +13,7 @@ Disponible pour opportunités professionnelles
 
 ---
 
-## 🇫🇷 À propos | 🇬🇧 About Me
+## À propos | About Me
 
 **FR 🇫🇷**
 Professionnel certifié en test logiciel,
