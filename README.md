@@ -15,7 +15,7 @@ Disponible pour opportunités professionnelles
 
 ## À propos | About Me
 
-**FR 🇫🇷**
+
 Professionnel certifié en test logiciel,
 spécialisé en automatisation des tests
 avec Selenium WebDriver et Java.
@@ -25,7 +25,7 @@ Actuellement à la recherche d'opportunités
 en tant que QA Engineer / Test Automation
 Engineer au Luxembourg et en France.
 
-**EN 🇬🇧**
+
 Certified software testing professional
 specialized in test automation
 with Selenium WebDriver and Java.
