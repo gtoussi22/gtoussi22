@@ -3,7 +3,7 @@
 #   Ghislain TOUSSI KAMGA
 ### QA Engineer | Test Automation Engineer
 
-Luxembourg & France
+France - Paris
 Disponible pour opportunités professionnelles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghislain_Toussi_Kamga-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ghislain-toussi-kamga)
@@ -23,7 +23,7 @@ Passionné par la qualité logicielle
 et les bonnes pratiques de test.
 Actuellement à la recherche d'opportunités
 en tant que QA Engineer / Test Automation
-Engineer au Luxembourg et en France.
+Engineer en France.
 
 
 Certified software testing professional
@@ -33,7 +33,7 @@ Passionate about software quality
 and testing best practices.
 Currently seeking opportunities as
 QA Engineer / Test Automation Engineer
-in Luxembourg and France.
+in France.
 
 ---
 
@@ -105,7 +105,7 @@ in Luxembourg and France.
 
 - LinkedIn : [Ghislain TOUSSI KAMGA](https://www.linkedin.com/in/ghislain-toussi-658889112/)
 - Email : gtoussikamga@gmail.com
-- Localisation : Luxembourg & France
+- Localisation : France - Paris
 - Langues : Français | Anglais
 
 ---
