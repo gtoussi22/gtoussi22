@@ -70,9 +70,12 @@ I founded **Titimbē Forge**, a software quality studio offering QA services (te
 
 ## Projets
 
+### QA Portfolio — une démarche qualité de bout en bout
+Stratégie de test, cas de test tracés, rapports d'anomalies et automatisation Playwright en Page Object, exécutée sur 3 navigateurs à chaque changement.
+→ **[Voir le projet](https://github.com/gtoussi22/qa-portfolio)** · **[Voir le rapport de tests](https://gtoussi22.github.io/qa-portfolio/)**
+
 ### ProofQA — plateforme de QA managée en SaaS
 Produit de Titimbē Forge, en développement. Je porte le produit de bout en bout : stratégie QA, architecture, automatisation, CI/CD.
-→ **[Voir le travail QA sur ProofQA](https://github.com/gtoussi22/proofqa-portfolio)**
 
 ---
 
