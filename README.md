@@ -74,10 +74,6 @@ I founded **Titimbē Forge**, a software quality studio offering QA services (te
 Produit de Titimbē Forge, en développement. Je porte le produit de bout en bout : stratégie QA, architecture, automatisation, CI/CD.
 → **[Voir le travail QA sur ProofQA](https://github.com/gtoussi22/proofqa-portfolio)**
 
-### Selenium Amazon — Page Object Model
-Automatisation de parcours e-commerce (connexion, recherche, navigation) en Java avec Selenium WebDriver et le pattern Page Object.
-→ **[Voir le projet](https://github.com/gtoussi22/Selenium-Amazon-Project)**
-
 ---
 
 ## Certifications
