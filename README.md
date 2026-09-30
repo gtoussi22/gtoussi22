@@ -1,121 +1,99 @@
 <div align="center">
 
-#   Ghislain TOUSSI KAMGA
-### QA Engineer | Test Automation Engineer
+# Ghislain TOUSSI KAMGA
 
-France - Paris
-Disponible pour opportunités professionnelles
+### QA Engineer · Test Lead · Fondateur de Titimbē Forge
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghislain_Toussi_Kamga-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ghislain-toussi-kamga)
-[![GitHub](https://img.shields.io/badge/GitHub-gtoussi22-black?style=flat&logo=github)](https://github.com/gtoussi22)
+Automatisation des tests · Stratégie QA · Pilotage de recette<br>
+Paris, France · Ouvert aux missions freelance
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghislain_Toussi_Kamga-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghislain-toussi-658889112/)
+[![Email](https://img.shields.io/badge/Email-contact%40titimbeforge.com-D4A017?style=flat&logo=maildotru&logoColor=white)](mailto:contact@titimbeforge.com)
 
 </div>
 
 ---
 
-## À propos | About Me
+## À propos
 
+QA Engineer et Test Lead depuis 6 ans, certifié ISTQB, j'interviens sur des projets de grands comptes et du secteur public, de la stratégie de test jusqu'à la décision de mise en production.
 
-Professionnel certifié en test logiciel,
-spécialisé en automatisation des tests
-avec Selenium WebDriver et Java.
-Passionné par la qualité logicielle
-et les bonnes pratiques de test.
-Actuellement à la recherche d'opportunités
-en tant que QA Engineer / Test Automation
-Engineer en France.
+J'ai fondé **Titimbē Forge**, un studio de qualité logicielle qui propose des services QA (automatisation, recette, audit, formation) et édite ses propres produits, dont **ProofQA**, une plateforme de QA managée en SaaS.
 
+> *La qualité ne se contrôle pas en fin de projet, elle se forge à chaque étape.*
 
-Certified software testing professional
-specialized in test automation
-with Selenium WebDriver and Java.
-Passionate about software quality
-and testing best practices.
-Currently seeking opportunities as
-QA Engineer / Test Automation Engineer
-in France.
+<details>
+<summary><b>English</b></summary>
+
+QA Engineer and Test Lead with 6 years of experience, ISTQB certified, working on enterprise and public sector projects, from test strategy to go-live decisions.
+
+I founded **Titimbē Forge**, a software quality studio offering QA services (test automation, acceptance testing, audits, training) and building its own products, including **ProofQA**, a managed QA SaaS platform.
+
+</details>
 
 ---
 
-##  Certifications
+## Ce que je fais
 
-| Certification | Organisme | Statut |
-|--------------|-----------|--------|
-| ISTQB® Certified Tester Foundation Level v4.0 | GASQ | ✅ Certifié |
-| ISTQB® CTAL-TAE Test Automation Engineer | GASQ | 🎯 En cours |
-| ISTQB® CTAL-ATT Agile Technical Tester | GASQ | 🎯 En cours |
+| Rôle | En pratique |
+|---|---|
+| **Test Lead** | Stratégie et plan de test, pilotage de la recette, indicateurs qualité, décision go / no-go |
+| **Testeur automaticien** | Playwright (TypeScript), Selenium (Java), BDD avec Cucumber, tests API, intégration CI/CD |
+| **Testeur fonctionnel** | Cas de test, tests de non-régression, gestion des anomalies |
 
 ---
 
-##  Compétences | Tech Stack
+## Stack
 
-### Test & Automation
+**Automatisation**
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+
+**API & performance**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-6DB33F?style=flat)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat&logo=lighthouse&logoColor=white)
 
-### Méthodologies
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat)
-![TDD](https://img.shields.io/badge/TDD-FF6B6B?style=flat)
-![BDD](https://img.shields.io/badge/BDD-4ECDC4?style=flat)
-![ISTQB](https://img.shields.io/badge/ISTQB-Foundation_Level-gold?style=flat)
-
-### Outils | Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+**CI/CD & pilotage**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Méthodes** : ISTQB · Agile / Scrum · BDD · Stratégie de test basée sur les risques
 
 ---
 
-##  Projets | Projects
+## Projets
 
-###  [Selenium ULLO DGFIP](https://github.com/gtoussi22/Selenium-UlloDGFIP-Project)
-> Automatisation de tests pour la plateforme ULLO DGFIP
-> Test automation for ULLO DGFIP government platform
-- **Stack :** Java | Selenium WebDriver | Maven
-- **Tests :** Ajout d'articles | Gestion médiathèques
+### ProofQA — plateforme de QA managée en SaaS
+Produit de Titimbē Forge, en développement. Je porte le produit de bout en bout : stratégie QA, architecture, automatisation, CI/CD.
+→ **[Voir le travail QA sur ProofQA](https://github.com/gtoussi22/proofqa-portfolio)**
 
-###  [Selenium Amazon](https://github.com/gtoussi22/Selenium-Amazon-Project)
-> Automatisation de tests sur Amazon avec Page Object Model
-> Amazon test automation using Page Object Model pattern
-- **Stack :** Java | Selenium WebDriver | Maven | POM Pattern
-- **Tests :** Login | Recherche | Navigation
-
-
+### Selenium Amazon — Page Object Model
+Automatisation de parcours e-commerce (connexion, recherche, navigation) en Java avec Selenium WebDriver et le pattern Page Object.
+→ **[Voir le projet](https://github.com/gtoussi22/Selenium-Amazon-Project)**
 
 ---
 
-## GitHub Stats
+## Certifications
 
-<div align="center">
+| Certification | Statut |
+|---|---|
+| ISTQB® Certified Tester Foundation Level v4.0 | ✅ Certifié |
+| ISTQB® CTAL-TAE — Test Automation Engineering | 🎯 En préparation |
+| ISTQB® CTAL-ATT — Agile Technical Tester | 🎯 En préparation |
 
-![Ghislain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gtoussi22&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtoussi22&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-##  Contact
-
-- LinkedIn : [Ghislain TOUSSI KAMGA](https://www.linkedin.com/in/ghislain-toussi-658889112/)
-- Email : gtoussikamga@gmail.com
-- Localisation : France - Paris
-- Langues : Français | Anglais
+**Formation** : Master 2 Management de projets numériques (Cnam Paris)
 
 ---
 
-<div align="center">
+## Contact
 
-###  "La qualité n'est pas un acte, c'est une habitude."
-### "Quality is not an act, it is a habit."
-
-⭐ N'hésitez pas à explorer mes projets !
-⭐ Feel free to explore my projects!
-
-</div>
+- **Missions et partenariats** : [contact@titimbeforge.com](mailto:contact@titimbeforge.com)
+- **LinkedIn** : [Ghislain Toussi Kamga](https://www.linkedin.com/in/ghislain-toussi-658889112/)
+- **Langues** : français, anglais
